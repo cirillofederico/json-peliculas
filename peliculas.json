@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "The Shawshank Redemption",
+        "fecha_lanzamiento": "1994-10-14",
+        "puntuacion": 9.3
+    },
+    {
+        "titulo": "The Godfather",
+        "fecha_lanzamiento": "1972-03-24",
+        "puntuacion": 9.2
+    },
+    {
+        "titulo": "The Dark Knight",
+        "fecha_lanzamiento": "2008-07-18",
+        "puntuacion": 9.0
+    },
+    {
+        "titulo": "Schindler's List",
+        "fecha_lanzamiento": "1993-12-15",
+        "puntuacion": 8.9
+    },
+    {
+        "titulo": "Forrest Gump",
+        "fecha_lanzamiento": "1994-07-06",
+        "puntuacion": 8.8
+    },
+    {
+        "titulo": "Inception",
+        "fecha_lanzamiento": "2010-07-16",
+        "puntuacion": 8.8
+    },
+    {
+        "titulo": "The Matrix",
+        "fecha_lanzamiento": "1999-03-31",
+        "puntuacion": 8.7
+    },
+    {
+        "titulo": "Interstellar",
+        "fecha_lanzamiento": "2014-11-07",
+        "puntuacion": 8.6
+    },
+    {
+        "titulo": "The Silence of the Lambs",
+        "fecha_lanzamiento": "1991-02-14",
+        "puntuacion": 8.6
+    },
+    {
+        "titulo": "The Green Mile",
+        "fecha_lanzamiento": "1999-12-10",
+        "puntuacion": 8.6
+    },
+    {
+        "titulo": "Gladiator",
+        "fecha_lanzamiento": "2000-05-05",
+        "puntuacion": 8.5
+    },
+    {
+        "titulo": "The Lord of the Rings: The Return of the King",
+        "fecha_lanzamiento": "2003-12-17",
+        "puntuacion": 8.9
+    },
+    {
+        "titulo": "The Departed",
+        "fecha_lanzamiento": "2006-10-06",
+        "puntuacion": 8.5
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "fecha_lanzamiento": "1994-10-14",
+        "puntuacion": 8.9
+    }
+]
